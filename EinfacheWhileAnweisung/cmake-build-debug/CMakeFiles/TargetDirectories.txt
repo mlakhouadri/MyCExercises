@@ -1,0 +1,3 @@
+C:/Users/Martina Lakhouadri/EinfacheWhileAnweisung/cmake-build-debug/CMakeFiles/EinfacheWhileAnweisung.dir
+C:/Users/Martina Lakhouadri/EinfacheWhileAnweisung/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Martina Lakhouadri/EinfacheWhileAnweisung/cmake-build-debug/CMakeFiles/rebuild_cache.dir
